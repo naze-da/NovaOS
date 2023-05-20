@@ -19,7 +19,7 @@ If you have any questions or concerns feel free to open a GitHub issue, join our
 **Before running**
 See [System Requirements](#system-requirements)
 
-![Nova Os Screenshot](Screenshots/image9.png)\
+![Nova Os Screenshot](Screenshots/image.png)\
 [More screenshots](Screenshots)
 ## Features
 - Modular Kernel
