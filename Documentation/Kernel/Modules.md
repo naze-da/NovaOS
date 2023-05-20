@@ -1,4 +1,4 @@
-# Lemon Loadable Kernel Modules
+# Nova Loadable Kernel Modules
 
 ## Creating a Module
 To declare a module use `DECLARE_MODULE(mname, mdescription, minit, mexit)`.
