@@ -1,7 +1,7 @@
-# Building Lemon OS and the Lemon OS Toolchain
+# Building Nova Os and the Nova Os Toolchain
 
-### Building Lemon OS
-[Building Lemon OS](Building-Lemon-OS.md) \
+### Building Nova Os
+[Building Nova Os](Building-Nova-OS.md) \
 
-### Lemon Toolchain
-[LIC (Lemon Interface Compiler)](lic.md)
+### Nova Toolchain
+[LIC (Nova Interface Compiler)](lic.md)
