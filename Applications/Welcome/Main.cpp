@@ -18,7 +18,7 @@ void OnThirdParty(void*) {
 
 int main(int, char**) {
     vector2i_t screenBounds = Lemon::WindowServer::Instance()->GetScreenBounds();
-    GUI::Window* window = new GUI::Window("Welcome to Lemon OS!", {400, 400}, 0, GUI::WindowType::GUI);
+    GUI::Window* window = new GUI::Window("Welcome to Nova OS!", {400, 400}, 0, GUI::WindowType::GUI);
     window->Relocate({screenBounds.x / 2 - 200, screenBounds.y / 2 - 200});
 
     GUI::Image* banner = new GUI::Image({0, 0, 400, (400 * 72 / 298)});
