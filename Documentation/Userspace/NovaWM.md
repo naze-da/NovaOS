@@ -1,6 +1,6 @@
-# Using LemonWM
+# Using NovaWM
 
-LemonWM is the window manager for Lemon OS.
+NovaWM is the window manager for Nova OS.
 
 ## Shortcuts
 - Alt + F4 to close a window
