@@ -1,3 +1,3 @@
-# Lemon OS Userspace
-[Using LemonWM](LemonWM.md) - Configuration and usage of LemonWM
+# Nova OS Userspace
+[Using Nova](NovaWM.md) - Configuration and usage of NovaWM
 [Using NetworkGovernor](NetworkGovernor.md) - Configuration and usage of NetworkGovernor
