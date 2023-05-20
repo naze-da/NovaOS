@@ -29,7 +29,7 @@ int main(int, char**) {
     buttonContainer->SetLayout(GUI::LayoutSize::Stretch, GUI::LayoutSize::Fixed, GUI::WAlignLeft, GUI::WAlignBottom);
     buttonContainer->xFill = true;
 
-    GUI::Button* about = new GUI::Button("About Lemon OS...", {});
+    GUI::Button* about = new GUI::Button("About Nova OS...", {});
     about->e.onPress.Set(OnAboutLemon);
     GUI::Button* thirdparty = new GUI::Button("Third Party...", {});
     thirdparty->e.onPress.Set(OnThirdParty);
